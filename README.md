@@ -1,1 +1,1 @@
-# visclass
+# Vis Class Examples
